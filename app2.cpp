@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-#include "/home/hazard/vs code/lib/clients_data.h"
-#include "/home/hazard/vs code/lib/matrix_lib.h"
-#include "/home/hazard/vs code/lib/global_funcs.h"
+#include "clients_data.h"
+#include "matrix_lib.h"
+#include "global_funcs.h"
 
 using namespace clients_data;
 using namespace matrix_lib;
