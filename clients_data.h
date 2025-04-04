@@ -5,9 +5,9 @@
 #include <fstream>
 using namespace std;
 
-#include "/home/hazard/vs code/lib/global_funcs.h"
-#include "/home/hazard/vs code/lib/matrix_lib.h"
-#include "/home/hazard/vs code/lib/clients_data.h"
+#include "global_funcs.h"
+#include "matrix_lib.h"
+#include "clients_data.h"
 
 using namespace global_funcs;
 using namespace matrix_lib;
